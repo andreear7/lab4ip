@@ -14,19 +14,19 @@ public class User {
 
     public Vector  myEmag;
 
-  public void adaugaInCos( Product) {
+  public void adaugaInCos() {
   }
 
   public void alegeCantitate( Integer) {
   }
 
-  public void mutaInFavorite( Product) {
+  public void mutaInFavorite() {
   }
 
   public void aplicaCardCadou() {
   }
 
-  public void cautaProdus( Product) {
+  public void cautaProdus() {
   }
 
   public bool logare( String) {
@@ -45,7 +45,7 @@ public class User {
   public void veziCos() {
   }
 
-  public void stergeDinCos( Product) {
+  public void stergeDinCos() {
   }
 
 }

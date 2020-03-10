@@ -19,7 +19,7 @@ public class Emag {
   public void administreazaCos() {
   }
 
-  public void recomandaProduse( Product) {
+  public void recomandaProduse() {
   }
 
   public void adaugaUtilizator( String) {
