@@ -17,7 +17,7 @@ public class User {
   public void adaugaInCos() {
   }
 
-  public void alegeCantitate( Integer) {
+  public void alegeCantitate() {
   }
 
   public void mutaInFavorite() {
@@ -29,7 +29,7 @@ public class User {
   public void cautaProdus() {
   }
 
-  public bool logare( String) {
+  public bool logare() {
   return null;
   }
 

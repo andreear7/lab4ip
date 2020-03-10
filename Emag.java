@@ -22,13 +22,13 @@ public class Emag {
   public void recomandaProduse() {
   }
 
-  public void adaugaUtilizator( String) {
+  public void adaugaUtilizator() {
   }
 
-  public void accesBazaDeDate( String) {
+  public void accesBazaDeDate() {
   }
 
-  public void adaugaDistribuitor( String) {
+  public void adaugaDistribuitor() {
   }
 
 }
