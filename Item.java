@@ -1,5 +1,8 @@
-public class Item {
+// 
+// Decompiled by Procyon v0.5.36
+// 
 
-  public Integer cantitate;
-
+public class Item
+{
+    public Integer cantitate;
 }
